@@ -1,0 +1,15 @@
+{
+  "name": "Kiran/motd",
+  "version": "0.1.0",
+  "author": "Kiran",
+  "summary": "this is my first script on puppet <<motd>>",
+  "license": "Apache-2.0",
+  "source": "https://github.com/kiraneppu/puppet",
+  "project_page": "https://github.com/kiraneppu/puppet",
+  "issues_url": "https://github.com/kiraneppu/puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
